@@ -1,6 +1,6 @@
 ## Laravel Multi Tenancy | Custom Implementation | Multi Databases Approach | Course Files on Udemy
 
-<img src="https://img-b.udemycdn.com/course/750x422/5669532_824d.jpg"> 
+<img src="https://img-b.udemycdn.com/course/750x422/6137137_3960.jpg"> 
 
 **Created By :** Mahmoud Anwar
 **Email :** Engsahaly@gmail.com
